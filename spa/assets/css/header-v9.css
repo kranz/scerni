@@ -135,7 +135,7 @@
 ----------------------------------------------------*/
 /* Header menu */
 .header-v9 .container-fluid.bg-2 {
-	background: #2a2a2a;
+	background: #08293a;
 }
 
 /* Transition on scroll */
@@ -152,7 +152,7 @@
 /* List items */
 .header-v9 .navbar-nav li a,
 .header-v9 .navbar-nav li a:focus {
-	text-transform: uppercase;
+	text-transform: capitalize;
 	color: #fff;
 	font-weight: bold;
 }
